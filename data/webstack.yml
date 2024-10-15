@@ -5,7 +5,7 @@
   links: 
     - title: baidu
       qrcode: images/qrcodes/222.png
-      logo: 
+      logo: images/logos/10.png
       url: https://www.baidu.com/
       description: 百度视频网站。
     - title: Behance
