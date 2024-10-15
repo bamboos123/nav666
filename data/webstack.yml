@@ -4,6 +4,7 @@
   icon: fa-star
   links: 
     - title: baidu
+      qrcode: images/qrcodes/222.png
       logo: 
       url: https://www.baidu.com/
       description: 百度视频网站。
