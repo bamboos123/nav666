@@ -3,11 +3,10 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: youtube
-      qrcode: images/qrcodes/111.png
+    - title: baidu
       logo: 
-      url: https://www.youtube.com/
-      description: 油管视频网站。
+      url: https://www.baidu.com/
+      description: 百度视频网站。
     - title: Behance
       url: https://behance.net/
       description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
