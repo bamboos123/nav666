@@ -3,7 +3,7 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: Youtube
+    - title: youtube
       qrcode: images/qrcodes/111.png
       logo: 
       url: https://www.youtube.com/
